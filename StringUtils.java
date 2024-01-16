@@ -1,2 +1,3 @@
 hello this file  contain string function
+I am updating the code for git pull command...  
 
